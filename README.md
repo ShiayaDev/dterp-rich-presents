@@ -35,9 +35,8 @@ None (Standalone)
 Inside `client.lua`, edit the following: appId = 1234567890123456789
 
 ## Preview
-
 Updates Discord Rich Presence with: Player name, Server ID, & Street name.
-<img width="457" height="182" alt="image" src="https://github.com/user-attachments/assets/50259578-53f1-4dec-bab8-4a6b4112887b" />
+<img width="457" height="182" alt="image" src="https://github.com/user-attachments/assets/50259578-53f1-4dec-bab8-4a6b4112887b"/>
 
 ## License
 
