@@ -20,7 +20,7 @@ Citizen.CreateThread(function()
         local crossingName = GetStreetNameFromHashKey(crossingHash)
 
         -- Discord Application ID (from your Discord Developer Portal)
-        local appId = 1234567890123456789
+        local appId = "1234567890123456789"
 
         -- Image keys from your Discord Rich Presence assets
         local smallPic = 'small'
